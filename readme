@@ -1,0 +1,3 @@
+Editar el archivo config.ini
+source .bashrc
+python download_wget.py config.ini
